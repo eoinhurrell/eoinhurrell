@@ -18,11 +18,13 @@ jobs:
           count: 3 # default 5
       - name: Commit file changes
         run: |
-            git config --global user.name 'eoinhurrell'
-            git config --global user.email 'eoin.hurrell@gmail.com'
+            git config --global user.name 'Blog bot'
+            git config --global user.email 'eoin@gmail.com'
             git add .
             git diff --quiet --cached || git commit -m "Update README"    
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+permissions:
+  contents: write

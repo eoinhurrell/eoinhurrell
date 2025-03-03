@@ -27,9 +27,9 @@ I'm a seasoned ML Engineer with 12+ years of experience delivering innovative so
 
 ## 📝 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [RetentionCast: Building Real-Time Churn Prediction with Change Data Capture](https://www.eoinhurrell.com/posts/20250221-retentioncast/)
 - [Easy Semantic Search with Custom Vector Embeddings and Typesense](https://www.eoinhurrell.com/posts/20240603-easy-semantic-search-typsesense/)
 - [Data Enrichment with LLMs for Obsidian: Better Tags](https://www.eoinhurrell.com/posts/20240425-data-enrichment-llm-tags/)
-- [Retrieval-Augmented Generation Experiments (Part 1)](https://www.eoinhurrell.com/posts/20240214-rag-blog-part-1-how/)
 <!-- BLOGPOSTS:END -->
 
 ## 🎤 Speaking
